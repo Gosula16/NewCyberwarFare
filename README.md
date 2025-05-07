@@ -23,7 +23,7 @@ CyberWarFare/
 ## 🚀 Live Demo
 
 🔗 [Live App Link](https://cwf-frontend.vercel.app/)  
-> _Replace this with your actual live deployment link after deployment._
+
 
 ## 🛠️ Technologies Used
 
@@ -56,6 +56,8 @@ npm install
 PORT=5000
 MONGO_URI=your-mongodb-connection-uri
 ```
+
+MONGO_URI=mongodb+srv://venky:venky123@cluster0.fbqkaj7.mongodb.net/feedback-app?retryWrites=true&w=majority&appName=Cluster0
 ### Start the backend:
 ``` bash
 npm start
